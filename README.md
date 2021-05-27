@@ -23,3 +23,4 @@ My program is unique because of the alterations I made to various shader techniq
 Github repository: https://github.com/Tuinsomatic/COMP3015-advanced-shader-program
 
 Unlisted Youtube code walkthrough: https://youtu.be/WXIoOxPCxXM
+Youtube video transcript:          https://drive.google.com/file/d/19OwR7mT3tEXmcIuLKajvy2M7mWX9M5B2/view?usp=sharing
