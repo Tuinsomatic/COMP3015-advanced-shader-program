@@ -20,6 +20,6 @@ My shader program was imspired by Elia, as mentioned in my demonstration video. 
 I attempted a PBR effect on the model too but couldn't get it working in time for the deadline.
 My program is unique because of the alterations I made to various shader techniques, such as removing gravity from the particle fountain or implementing the cloud effect as part of the 3D scene instead of a visual affect to the eyes. The concept of an abandoned turret suddenly firing is unique too. But most of the shader techniques I used can be found in many other projects, which makes the project rather less unique.
 
-Github repository:
+Github repository: https://github.com/Tuinsomatic/COMP3015-advanced-shader-program
 
 Unlisted Youtube code walkthrough: https://youtu.be/WXIoOxPCxXM
