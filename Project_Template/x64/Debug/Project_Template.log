@@ -1,0 +1,3 @@
+﻿  scenebasic_uniform.cpp
+C:\Users\rowse\Desktop\Project_Template\scenebasic_uniform.cpp(160,23): warning C4018: '<': signed/unsigned mismatch
+  Project_Template.vcxproj -> C:\Users\rowse\Desktop\Project_Template\x64\Debug\Project_Template.exe
